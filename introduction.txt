@@ -1,0 +1,4 @@
+this file contains brief introduction regarding the projecct.
+aim
+objective
+technology required
